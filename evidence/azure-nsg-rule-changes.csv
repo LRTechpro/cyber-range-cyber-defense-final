@@ -1,0 +1,4 @@
+time_utc,operation,status,rule,effect
+2026-10-07 00:48:42,securityRules/write,Success,DANGER-Allow-All-Inbound,created: any source -> port 8080
+2026-10-08 22:45:59,securityRules/write,Success,DANGER-Allow-All-Inbound,widened: any source -> all ports/protocols
+2026-10-09 22:24:58,securityRules/delete,Success,DANGER-Allow-All-Inbound,deleted (containment)

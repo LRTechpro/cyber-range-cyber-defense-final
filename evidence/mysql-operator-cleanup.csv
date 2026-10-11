@@ -1,0 +1,7 @@
+time_utc,thread_id,statement
+2026-10-10 14:01:27,9,ALTER USER 'root'@'%' IDENTIFIED BY <secret>
+2026-10-10 14:01:27,9,DROP USER 'root'@'%'
+2026-10-10 14:13:58,11,DROP table recover_your_data.recover_your_data
+2026-10-10 14:22:00,11,CREATE DATABASE lnp_corp CHARACTER SET utf8mb4
+2026-10-10 14:22:00,11,DROP DATABASE IF EXISTS lnp_corp
+2026-10-10 14:27:38,14,DROP SCHEMA recover_your_data
